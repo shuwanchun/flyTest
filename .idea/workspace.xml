@@ -2,10 +2,122 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4aa823f6-a303-47e2-9ced-0d6a4d38450a" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hungry_hero/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hungry_hero/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hungry_hero/src/elements/Item.js" beforeDir="false" afterPath="$PROJECT_DIR$/hungry_hero/src/elements/Item.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hungry_hero/src/elements/Obstacle.js" beforeDir="false" afterPath="$PROJECT_DIR$/hungry_hero/src/elements/Obstacle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DragonBones/DragonBonesDesignPanel zrong2.2.zxp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DragonBones/Dragon_Bones_cocos2.0.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DragonBones/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DragonBones/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DragonBones/skeleton.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DragonBones/skeleton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DragonBones/skeleton.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGL_WebGL_Shader/MultipleTextures.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGL_WebGL_Shader/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGL_WebGL_Shader/ShaderFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGL_WebGL_Shader/Shader_native_jsb_compatible.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/安装包/DragonBonesDesignPanel zrong2.2.zxp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/安装包/Dragon_Bones_cocos2.0.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/源代码/源代码.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/createjs/events/Event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/createjs/events/EventDispatcher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/createjs/utils/IndexOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/display/Bitmap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/display/BitmapAnimation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/display/BitmapText.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/display/Container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/display/DOMElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/display/DisplayObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/display/Graphics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/display/MovieClip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/display/Shadow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/display/Shape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/display/Sprite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/display/SpriteContainer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/display/SpriteSheet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/display/SpriteStage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/display/Stage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/display/Text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/events/MouseEvent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/filters/AlphaMapFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/filters/AlphaMaskFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/filters/BlurFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/filters/ColorFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/filters/ColorMatrix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/filters/ColorMatrixFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/filters/Filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/geom/Matrix2D.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/geom/Point.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/geom/Rectangle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/ui/ButtonHelper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/ui/Touch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/utils/SpriteSheetBuilder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/utils/SpriteSheetUtils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/utils/Ticker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/utils/UID.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/version.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/easeljs/version_movieclip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/preloadjs/AbstractLoader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/preloadjs/LoadQueue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/preloadjs/SamplePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/preloadjs/TagLoader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/preloadjs/XHRLoader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/preloadjs/version.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/tweenjs/CSSPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/tweenjs/Ease.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/tweenjs/MotionGuidePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/tweenjs/SamplePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/tweenjs/Timeline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/tweenjs/Tween.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/createjs/tweenjs/version.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/project.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/res/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/res/grossini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/res/grossini_dance_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/res/grossini_dance_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/res/grossini_dance_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/res/grossini_dance_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/res/grossini_dance_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/res/grossini_dance_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/res/grossini_dance_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/res/grossini_dance_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/res/grossini_dance_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/res/grossini_dance_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/res/grossini_dance_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/res/grossini_dance_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/res/grossini_dance_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/res/grossini_dance_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/res/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocos_vs_createjs/src/resource.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsbinding(cpp_js js_cpp)/AppDelegate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsbinding(cpp_js js_cpp)/jsb_kenko_auto.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsbinding(cpp_js js_cpp)/jsb_kenko_auto.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsbinding(cpp_js js_cpp)/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modified-AssetsManager/AssetsManager.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modified-AssetsManager/AssetsManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modified-AssetsManager/CCEventAssetsManager.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modified-AssetsManager/CCEventAssetsManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modified-AssetsManager/CCEventListenerAssetsManager.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modified-AssetsManager/CCEventListenerAssetsManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modified-AssetsManager/Downloader.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modified-AssetsManager/Downloader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modified-AssetsManager/Manifest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modified-AssetsManager/Manifest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态更新-热更新例子/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态更新-热更新例子/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态更新-热更新例子/project.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态更新-热更新例子/res/CloseNormal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态更新-热更新例子/res/CloseSelected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态更新-热更新例子/res/HelloWorld.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态更新-热更新例子/res/Icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态更新-热更新例子/res/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态更新-热更新例子/res/project.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态更新-热更新例子/res/version.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态更新-热更新例子/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态更新-热更新例子/src/jsList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态更新-热更新例子/src/resource.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -54,13 +166,21 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1695435377">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hungry_hero/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
+            <state relative-caret-position="437">
               <caret line="23" column="23" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="23" />
             </state>
           </provider>
@@ -69,8 +189,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hungry_hero/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+            <state relative-caret-position="331">
+              <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -78,7 +198,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hungry_hero/src/elements/Obstacle.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
+            <state relative-caret-position="1938">
               <caret line="102" column="20" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
             </state>
           </provider>
@@ -122,7 +242,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -141,26 +261,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="cocos2d-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cocos2d-js" type="462c0819:PsiDirectoryNode" />
+              <item name="flyTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flyTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="cocos2d-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cocos2d-js" type="462c0819:PsiDirectoryNode" />
+              <item name="flyTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flyTest" type="462c0819:PsiDirectoryNode" />
               <item name="hungry_hero" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cocos2d-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cocos2d-js" type="462c0819:PsiDirectoryNode" />
-              <item name="hungry_hero" type="462c0819:PsiDirectoryNode" />
-              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cocos2d-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cocos2d-js" type="462c0819:PsiDirectoryNode" />
-              <item name="hungry_hero" type="462c0819:PsiDirectoryNode" />
-              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
-              <item name="cocos2d-html5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -223,14 +330,15 @@
       <workItem from="1540709563555" duration="957000" />
       <workItem from="1540711916364" duration="1094000" />
       <workItem from="1540713150176" duration="1135000" />
+      <workItem from="1540718365629" duration="250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4562000" />
+    <option name="totallyTimeSpent" value="4812000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
@@ -279,43 +387,30 @@
     <entry file="file://$PROJECT_DIR$/hungry_hero/src/GameConstants.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cocos_vs_createjs/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-344" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cocos_vs_createjs/res/grossini_dance_05.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cocos_vs_createjs/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cocos_vs_createjs/createjs/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="45" column="20" lean-forward="true" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_源代码.zip/源代码/第3章/src/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos_vs_createjs/main.js" />
+    <entry file="file://$PROJECT_DIR$/cocos_vs_createjs/res/grossini_dance_05.png" />
+    <entry file="file://$PROJECT_DIR$/cocos_vs_createjs/index.html" />
+    <entry file="file://$PROJECT_DIR$/cocos_vs_createjs/createjs/index.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_源代码.zip/源代码/第3章/src/app.js" />
     <entry file="file://$PROJECT_DIR$/hungry_hero/framework/CCBoot.js" />
-    <entry file="file://$PROJECT_DIR$/hungry_hero/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hungry_hero/frameworks/cocos2d-html5/extensions/ccpool/CCPool.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="118" column="17" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hungry_hero/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hungry_hero/src/elements/Obstacle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="102" column="20" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -326,17 +421,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hungry_hero/src/elements/Obstacle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="102" column="20" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hungry_hero/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        <state relative-caret-position="331">
+          <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
         </state>
       </provider>
     </entry>
